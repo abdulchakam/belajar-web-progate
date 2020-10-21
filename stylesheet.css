@@ -203,3 +203,19 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+
+
+
+/* tampilan tablet */
+@media screen and (max-width: 769px){
+  .lesson {
+    width: 50%;
+  }
+}
+
+/* tampilan hp */
+@media screen and (max-width: 576px){
+  .lesson {
+    width: 100%;
+  }
+}
